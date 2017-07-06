@@ -1,0 +1,73 @@
+ header {
+    text-align: center;
+    color: black;
+    font-family: Lucida Handwriting;
+ 
+  }
+  a {
+    color: white;
+  }
+  h1 {
+    font-size: 70px;
+  }
+  ul {
+    padding: 1px;
+    background: black;
+  }
+  li {
+    display: inline;
+    padding:  0px 60px 0px 60px;
+  }
+.background-image {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  display: block;
+  background-image: url("http://wallpapercave.com/wp/gk1MNeu.jpg");
+  width: 2000px;
+  height: 1500px;
+
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.content {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.example {
+  color: white;
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+  h2 {
+    font-family: Lucida Handwriting;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    border: 7px solid white;
+    background: black;
+  }
+  img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+  }
+.Performance {
+  text-align: center;
+  color: white;
+  background: black;
+  width: 650px;
+  margin-left: 33%;
+}
+
