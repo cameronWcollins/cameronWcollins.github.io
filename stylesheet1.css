@@ -1,9 +1,10 @@
  header {
     text-align: center;
-    color: black;
-    font-family: gill shadow;
- 
-  }
+    color: white;
+    font-family: Lucida Handwriting;
+    background-image: url("http://3.bp.blogspot.com/_5tIvW9350EM/TMLY8JzmX_I/AAAAAAAAAsA/pi5zqeHrPnk/s1600/drums+and+friends.jpg");
+    background-size: 100%;
+}
   a {
     color: white;
   }
@@ -11,8 +12,10 @@
     font-size: 70px;
   }
   ul {
-    padding: 1px;
+    padding: 10px;
     background: black;
+    width: 1900px;
+    margin-right: 150px;
   }
   li {
     display: inline;
@@ -25,7 +28,7 @@
   z-index: 1;
 
   display: block;
-  background-image: url("http://wallpapercave.com/wp/gk1MNeu.jpg");
+  background-image: url("https://wallpaperscraft.com/image/piano_music_background_style_80581_2560x1440.jpg");
   width: 2000px;
   height: 1500px;
 
@@ -41,14 +44,16 @@
   left: 0;
   right: 0;
   z-index: 9999;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 0px 0px 0px 0px;
 }
 .example {
   color: white;
   background-color: black;
-  width: 100px;
-  height: 100px;
+  font-size: 30px;
+  width: 1000px;
+  text-align: center;
+  border: 7px solid white;
+  margin-left: 23%;
 }
   h2 {
     font-family: Lucida Handwriting;
@@ -70,4 +75,10 @@
   width: 650px;
   margin-left: 33%;
 }
-
+html, body {
+    padding: 0;
+    margin: 0;
+}
+.background-image {
+  border: 7px solid black;
+}
