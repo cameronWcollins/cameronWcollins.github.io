@@ -1,4 +1,4 @@
- header {
+header {
     text-align: center;
     color: white;
     font-family: 'Lobster Two', cursive;
@@ -52,7 +52,7 @@
   margin: 0px 0px 0px 0px;
   margin-top: -50px
 }
-.example {
+.aboutmecontent {
   color: white;
   background-color: black;
   font-size: 30px;
@@ -83,7 +83,7 @@
     border: 7px solid white;
     border-radius: 20px;
   }
-.Performance {
+.aboutme {
   text-align: center;
   color: white;
   background: black;
