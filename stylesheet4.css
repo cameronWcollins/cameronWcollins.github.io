@@ -52,48 +52,17 @@ header {
   margin: 0px 0px 0px 0px;
   margin-top: -50px
 }
-.example {
-  color: white;
-  background-color: black;
-  font-size: 30px;
-  width: 1000px;
-  text-align: center;
-  border: 7px solid white;
-  margin-left: 23%;
-}
-.Karmanos {
-  color: white;
-  background-color: black;
-  font-size: 30px;
-  width: 1000px;
-  text-align: center;
-  border: 7px solid white;
-  margin-left: 23%;
-}
-  h2 {
-    font-family: Lucida Handwriting;
-    font-size: 50px;
-    text-align: center;
-    color: white;
-    border: 7px solid white;
-    background: black;
-  }
-  img {
-    margin: 40px 0px 0px 0px;
-    border: 7px solid white;
-    border-radius: 20px;
-  }
-.Performance {
-  text-align: center;
-  color: white;
-  background: black;
-  width: 650px;
-  margin-left: 33%;
-}
 html, body {
     padding: 0;
     margin: 0;
 }
 .background-image {
   border: 7px solid black;
+}
+h3 {
+  text-align: center;
+  color: white;
+  background: black;
+  width: 650px;
+  margin-left: 33%;
 }

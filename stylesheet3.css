@@ -71,7 +71,7 @@ header {
   margin-left: 23%;
 }
   h2 {
-    font-family: Lucida Handwriting;
+    font-family: 'Lobster Two', cursive;;
     font-size: 50px;
     text-align: center;
     color: white;
@@ -96,4 +96,19 @@ html, body {
 }
 .background-image {
   border: 7px solid black;
+}
+table {
+  text-align: center;
+}
+table, th, td {
+    border: 1px solid white;
+    font-size: 30px;
+    margin-left: 36%;
+    background: black;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+    padding: 50px 50px 10px 50px
+}
+th {
+  font-size: 45px;
 }
