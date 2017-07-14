@@ -1,12 +1,13 @@
 header {
+    position: fixed;
     text-align: center;
     color: white;
     font-family: 'Lobster Two', cursive;
     background-image: url("http://3.bp.blogspot.com/_5tIvW9350EM/TMLY8JzmX_I/AAAAAAAAAsA/pi5zqeHrPnk/s1600/drums+and+friends.jpg");
     background-size: cover;
+    height: 200px;
     margin-top: 0px;
     font-size: 30px;
-
 }
   a {
     color: white;
@@ -77,6 +78,13 @@ header {
     color: white;
     border: 7px solid white;
     background: black;
+  }
+  .Performance {
+  text-align: center;
+  color: white;
+  background: black;
+  width: 650px;
+  margin-left: 33%;
   }
   img {
     margin: 40px 0px 0px 0px;

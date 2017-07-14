@@ -1,12 +1,13 @@
 header {
+    position: fixed;
     text-align: center;
     color: white;
     font-family: 'Lobster Two', cursive;
     background-image: url("http://3.bp.blogspot.com/_5tIvW9350EM/TMLY8JzmX_I/AAAAAAAAAsA/pi5zqeHrPnk/s1600/drums+and+friends.jpg");
     background-size: cover;
+    height: 200px;
     margin-top: 0px;
     font-size: 30px;
-
 }
   a {
     color: white;
@@ -60,9 +61,27 @@ html, body {
   border: 7px solid black;
 }
 h3 {
+  color: white;
+  background-color: black;
+  font-size: 100px;
+  width: 1000px;
+  text-align: center;
+  border: 7px solid white;
+  margin-left: 23%;
+  font-family: 'Lobster Two', cursive;
+}
+.Performance {
   text-align: center;
   color: white;
   background: black;
   width: 650px;
   margin-left: 33%;
+}
+h2 {
+  font-family:'Lobster Two', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    border: 7px solid white;
+    background: black;
 }
